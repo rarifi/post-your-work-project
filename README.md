@@ -31,6 +31,7 @@ The program provides insights such as:
 - Most popular stations and trips  
 - Trip duration statistics  
 - User type statistics  
+- Interactive user input in the terminal
 
 ## Example
 
