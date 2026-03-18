@@ -1,27 +1,46 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Project
 
+This project analyzes bikeshare data from three major US cities: Chicago, New York City, and Washington.  
+It allows users to explore the data interactively by applying filters such as city, month, and day of the week.
 
-# Project Title
+## How to use this project
 
-Describe what your project is about and what it does
+### Requirements
+- Python 3
 
-## Information about how to use your project
+### Run the program
+1. Open your terminal  
+2. Navigate to the project folder  
+3. Run the following command:
 
-This could include:
+```bash
+python bikeshare.py
+```
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+4. Follow the instructions in the terminal to select:
+   - City  
+   - Month  
+   - Day  
 
-## Contribution guidelines
+The program will then display various statistics.
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+## Features
+
+The program provides insights such as:
+- Most common times of travel  
+- Most popular stations and trips  
+- Trip duration statistics  
+- User type statistics  
+
+## Example
+
+After running the script, you will be asked to input your preferences.  
+Based on your input, the program will calculate and display relevant statistics.
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project is part of the Udacity Data Analyst Nanodegree program.
 
 ## Date created
 
-Include the date you created this project and README file.
+March 2026
