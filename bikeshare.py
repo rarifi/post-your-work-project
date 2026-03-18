@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Refactoring: added comments to improve readability
+# Refactoring: cleaned up variable names
 
 CITY_DATA = {
     'chicago': 'chicago.csv',
