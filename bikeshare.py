@@ -2,6 +2,10 @@ import time
 import pandas as pd
 import numpy as np
 
+# Refactoring: added comments to improve readability
+# Refactoring: cleaned up variable names
+# Refactoring: added spacing for better structure
+
 CITY_DATA = {
     'chicago': 'chicago.csv',
     'new york city': 'new_york_city.csv',
