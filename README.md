@@ -45,3 +45,7 @@ This project is part of the Udacity Data Analyst Nanodegree program.
 ## Date created
 
 March 2026
+
+## Notes
+
+This project is intended for educational purposes.
